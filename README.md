@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Laravel and Flutter**
 
-- 👯 I’m looking to collaborate on **N/A**
-
 - 👨‍💻 All of my projects are available at [https://www.canva.com/design/DAGmQ6mNKvw/Y2cH-C5Y7WVJ11C2QFDX-A/edit?utm_content=DAGmQ6mNKvw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGmQ6mNKvw/Y2cH-C5Y7WVJ11C2QFDX-A/edit?utm_content=DAGmQ6mNKvw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - 💬 Ask me about **Vue and Flutter**
